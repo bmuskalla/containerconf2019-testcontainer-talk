@@ -1,0 +1,4 @@
+web:
+  image: jetty
+db:
+  image: postgres:9.6.12
